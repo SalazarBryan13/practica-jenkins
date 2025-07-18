@@ -1,0 +1,11 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "Proyecto de ejemplo Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+} 
